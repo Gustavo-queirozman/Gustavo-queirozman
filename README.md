@@ -58,7 +58,7 @@ Atualmente estou contribuindo com projetos **open source** voltados para **APIs 
 
 - 💼 [LinkedIn](https://linkedin.com/in/seuusuario)  
 - 💻 [GitHub](https://github.com/seuusuario)  
-- ✉️ gustavoqueiroz@exemplo.com  
+- ✉️ gustavoqueiroz@gmail.com  
 
 ---
 
