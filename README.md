@@ -49,7 +49,6 @@ Atualmente estou contribuindo com projetos **open source** voltados para **APIs 
 - DevOps & containers com Docker  
 - Automação de testes e qualidade de código  
 - Contribuição open source  
-- Projetos internacionais e remotos  
 
 ---
 
