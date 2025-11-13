@@ -57,7 +57,7 @@ Atualmente estou contribuindo com projetos **open source** voltados para **APIs 
 ## 📫 Como entrar em contato
 
 - 💼 [LinkedIn](www.linkedin.com/in/gustavo-queirozman)  
-- 💻 [GitHub](https://github.com/seuusuario)  
+- 💻 [GitHub](https://github.com/Gustavo-queirozman)
 - ✉️ gustavoqueiroz@gmail.com  
 
 ---
