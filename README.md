@@ -13,12 +13,11 @@ Atualmente estou contribuindo com projetos **open source** voltados para **APIs 
 - ⚙️ API REST • Autenticação (Sanctum / Passport)
 
 **Frontend**
-- ⚛️ React.js • JavaScript (ES6+)
-- 🧩 Axios • Styled Components • Tailwind CSS
+- ⚛️ React.js • JavaScript (ES6+) • React Native
 
 **DevOps / Infra**
-- 🐳 Docker • Docker Compose • Laravel Sail
-- 🌐 Nginx • Node.js 20
+- 🐳 Docker • Docker Compose
+- 🌐 Laravel • Python
 - 🧰 Git • GitHub Actions • Composer • NPM/Yarn
 
 ---
