@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Gustavo Queiroz
 
 Sou um desenvolvedor **Full Stack** focado em **Laravel**, **React** e **Docker**, apaixonado por criar soluções eficientes, escaláveis e bem estruturadas.  
-Atualmente estou contribuindo com projetos **open source** voltados para **APIs Laravel** e estudando tecnologias internacionais com menos profissionais qualificados no Brasil.
+Atualmente estou contribuindo com projetos **open source** voltados para **APIs Laravel** e estudando tecnologias internacionais.
 
 ---
 
