@@ -29,19 +29,6 @@ Atualmente estou contribuindo com projetos **open source** voltados para **APIs 
 - 🌍 Buscando colaborar com desenvolvedores e empresas do exterior
 - 🧩 Estudando novas stacks e padrões que melhoram performance em aplicações web
 
----
-
-## 🛠️ Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|----------|------------|-------------|
-| **Simple Laravel API** | API REST completa com autenticação Sanctum, Docker e MySQL | Laravel, PHP, Docker |
-| **React Dashboard** | Painel administrativo responsivo conectado a API Laravel | React, Axios, Tailwind |
-| **Multi-Level Compensation System** | Algoritmo de comissão multinível com compensações configuráveis | Laravel, MySQL |
-
-*(em breve mais projetos open source e pessoais)*
-
----
 
 ## 🌱 Áreas de interesse
 
