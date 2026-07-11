@@ -1,51 +1,125 @@
-# 👋 Olá, eu sou Gustavo Queiroz
+# Hi there! I'm Gustavo Queiroz 👋
 
-Sou um desenvolvedor **Full Stack** focado em **Laravel**, **React** e **Docker**, apaixonado por criar soluções eficientes, escaláveis e bem estruturadas.  
-Atualmente estou contribuindo com projetos **open source** voltados para **APIs Laravel** e estudando tecnologias internacionais.
+**Full-Stack Engineer | Backend Specialist | Laravel • React • TypeScript • Docker**
 
----
+I'm a Full-Stack Engineer from Brazil with experience building scalable web applications, enterprise systems, REST APIs and business integrations.
 
-## 🚀 Tecnologias & Stacks Principais
+I enjoy solving complex problems through clean architecture, automation and high-quality software.
 
-**Backend**
-- 🧱 PHP 8.1 • Laravel 10
-- 🐘 MySQL • Eloquent ORM
-- ⚙️ API REST • Autenticação (Sanctum / Passport)
+### 🚀 About Me
 
-**Frontend**
-- ⚛️ React.js • JavaScript (ES6+) • React Native
-
-**DevOps / Infra**
-- 🐳 Docker • Docker Compose
-- 🌐 Laravel • Python
-- 🧰 Git • GitHub Actions • Composer • NPM/Yarn
+* 💼 4+ years of experience in software development
+* 🏗️ Backend-focused Full-Stack Engineer
+* ⚡ Specialized in Laravel, PHP and REST APIs
+* 🐳 Experience with Docker, CI/CD and cloud environments
+* 📐 Passionate about Clean Architecture, SOLID and DDD
+* 🌍 Open to remote international opportunities
 
 ---
 
-## 💡 O que estou fazendo atualmente
+## 🛠 Tech Stack
 
-- 🔧 Contribuindo em **projetos open source Laravel APIs**
-- 🧠 Aprimorando conhecimentos em **arquitetura de software e clean code**
-- 🌍 Buscando colaborar com desenvolvedores e empresas do exterior
-- 🧩 Estudando novas stacks e padrões que melhoram performance em aplicações web
+### Backend
 
+* PHP
+* Laravel
+* Node.js
+* REST APIs
+* SQL
+* MySQL
+* SQL Server
 
-## 🌱 Áreas de interesse
+### Frontend
 
-- Arquitetura de APIs escaláveis  
-- DevOps & containers com Docker  
-- Automação de testes e qualidade de código  
-- Contribuição open source  
+* React
+* JavaScript
+* TypeScript
+* HTML
+* CSS
+
+### DevOps & Cloud
+
+* Docker
+* GitHub Actions
+* Linux
+* Nginx
+* AWS
+
+### Architecture
+
+* Clean Architecture
+* Domain-Driven Design (DDD)
+* SOLID
+* Design Patterns
+* Microservices
 
 ---
 
-## 📫 Como entrar em contato
+# ⭐ Featured Projects
 
-- 💼 [LinkedIn](www.linkedin.com/in/gustavo-queirozman)  
-- 💻 [GitHub](https://github.com/Gustavo-queirozman)
-- ✉️ gustavoqueirozmit@gmail.com  
+## 🏢 ERP System
+
+Complete ERP platform for business management with inventory, sales and administrative modules.
+
+**Stack**
+
+Laravel • React • MySQL • Docker
 
 ---
 
-> “O código é a forma mais pura de comunicação entre pessoas que nunca se conheceram.”  
-> — *Gustavo Queiroz*
+## ⚖️ Legal Case Management
+
+Platform for managing legal cases, documents and workflows.
+
+**Stack**
+
+Laravel • React • REST API
+
+---
+
+## 🏥 Healthcare API
+
+REST API responsible for healthcare beneficiary management and business process automation.
+
+**Stack**
+
+Laravel • MySQL • Docker
+
+---
+
+## 🎓 TOTVS RM Integration
+
+Enterprise integration between external educational platforms and TOTVS RM.
+
+Features include:
+
+* Student synchronization
+* Academic data integration
+* Grade synchronization
+* Automated workflows
+* Enterprise APIs
+
+---
+
+## 📈 WordPress SEO Plugin
+
+AI-powered SEO plugin for WordPress.
+
+Features include:
+
+* SEO optimization
+* Structured Data
+* Meta Tags
+* Open Graph
+* Sitemap generation
+
+---
+
+## 📫 Connect with Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/gustavo-queiroz-85b82b3ab/
+* 📧 Email: [gustavoqueirozmit@gmail.com](mailto:gustavoqueirozmit@gmail.com)
+
+---
+
+> *"I believe great software is built with clean architecture, continuous learning and attention to detail."*
