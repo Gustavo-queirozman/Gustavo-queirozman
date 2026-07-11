@@ -72,7 +72,7 @@ My work covers the complete software development lifecycle — from requirements
 
 ## 🚀 Featured Projects
 
-### ⚖️ JuriStack — Legal Management SaaS
+### ⚖️ [JuriStack — Legal Management SaaS](https://github.com/Gustavo-queirozman/JuriStack)
 
 A full-stack SaaS platform designed for law firms, covering architecture, backend, frontend, infrastructure and deployment.
 
