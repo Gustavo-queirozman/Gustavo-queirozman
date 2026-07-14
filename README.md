@@ -122,7 +122,7 @@ Desarrollo de APIs REST y sistemas internos para procesos del sector sanitario, 
 
 ---
 
-### 📈 Plugin de WordPress para SEO con inteligencia artificial
+### (📈 Plugin de WordPress para SEO con inteligencia artificial)[https://github.com/Gustavo-queirozman/rankora-docs]
 
 Plugin de WordPress orientado a la generación de contenido y automatización del SEO técnico.
 
