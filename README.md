@@ -89,7 +89,7 @@ Plataforma SaaS full stack para despachos de abogados, desarrollada de extremo a
 
 ---
 
-### 🎓 Integración de plataforma educativa con TOTVS RM
+### 🎓 [Integración de plataforma educativa con TOTVS RM](https://github.com/Gustavo-queirozman/totvs-rm-integration-case)
 
 Integración empresarial responsable de sincronizar información académica entre una plataforma educativa externa y el ERP TOTVS RM.
 
