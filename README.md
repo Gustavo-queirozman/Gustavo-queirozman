@@ -1,43 +1,43 @@
 <div align="center">
 
-# Hi, I'm Gustavo Queiroz 👋
+# Hola, soy Gustavo Queiroz 👋
 
-### Full-Stack Software Engineer · Backend-Focused · Laravel · React · APIs · Docker
+### Ingeniero de Software Full Stack · Especializado en Backend · Laravel · React · APIs · Docker
 
-I build scalable web applications, SaaS platforms, enterprise integrations and business automation solutions.
+Desarrollo aplicaciones web escalables, plataformas SaaS, integraciones empresariales y soluciones de automatización de procesos.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-queiroz-85b82b3ab/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoqueirozmit@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Gustavo-queirozman&style=for-the-badge)](https://github.com/Gustavo-queirozman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-queiroz-85b82b3ab/)
+[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoqueirozmit@gmail.com)
+[![Visitas al perfil](https://komarev.com/ghpvc/?username=Gustavo-queirozman&style=for-the-badge)](https://github.com/Gustavo-queirozman)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mí
 
-I'm a Full-Stack Software Engineer from Brazil with **4+ years of experience** developing web applications, REST APIs, SaaS products, ERP solutions and corporate integrations.
+Soy Ingeniero de Software Full Stack de Brasil, con **más de 4 años de experiencia** en el desarrollo de aplicaciones web, APIs REST, productos SaaS, soluciones ERP e integraciones corporativas.
 
-My work covers the complete software development lifecycle — from requirements analysis and architecture to implementation, deployment, monitoring and continuous improvement.
+He participado en todo el ciclo de desarrollo de software: análisis de requisitos, diseño de arquitectura, implementación, despliegue, monitorización, soporte en producción y mejora continua.
 
-- 🔧 Backend-focused, with strong experience in **PHP, Laravel, REST APIs and SQL**
-- ⚛️ Frontend development with **React, JavaScript, Tailwind CSS and Livewire**
-- 🔄 Experienced in **system integrations, webhooks, asynchronous jobs and queues**
-- 🐳 Comfortable with **Docker, Linux, Nginx, GitHub Actions and CI/CD**
-- 🧱 Advocate for **Clean Code, SOLID, DDD and maintainable architecture**
-- 📊 Experience optimizing relational databases and automating business processes
-- 🌍 Open to remote and international software engineering opportunities
+- 🔧 Especializado en backend, con experiencia sólida en **PHP, Laravel, APIs REST y SQL**
+- ⚛️ Desarrollo frontend con **React, JavaScript, TypeScript, Tailwind CSS y Livewire**
+- 🔄 Experiencia en **integraciones de sistemas, webhooks, procesos asíncronos, jobs y colas**
+- 🐳 Experiencia con **Docker, Linux, Nginx, GitHub Actions y CI/CD**
+- 🧱 Aplicación de **Clean Code, SOLID, DDD y arquitecturas mantenibles**
+- 📊 Optimización de bases de datos relacionales y automatización de procesos de negocio
+- 🌍 Disponible para oportunidades remotas e internacionales en equipos de habla hispana
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Tecnologías
 
 ### Backend
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+![REST API](https://img.shields.io/badge/APIs_REST-005571?style=flat-square)
 ![Webhooks](https://img.shields.io/badge/Webhooks-2F3134?style=flat-square)
 
 ### Frontend
@@ -48,7 +48,7 @@ My work covers the complete software development lifecycle — from requirements
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
 
-### Databases
+### Bases de datos
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -56,7 +56,7 @@ My work covers the complete software development lifecycle — from requirements
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-### DevOps & Infrastructure
+### DevOps e infraestructura
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -64,120 +64,120 @@ My work covers the complete software development lifecycle — from requirements
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Architecture & Engineering Practices
+### Arquitectura y buenas prácticas
 
-`Clean Architecture` · `Domain-Driven Design` · `SOLID` · `Clean Code` · `MVC` · `Design Patterns` · `SaaS` · `System Integration` · `Observability` · `CI/CD` · `Agile Development`
-
----
-
-## 🚀 Featured Projects
-
-### ⚖️ [JuriStack — Legal Management SaaS](https://github.com/Gustavo-queirozman/JuriStack)
-
-A full-stack SaaS platform designed for law firms, covering architecture, backend, frontend, infrastructure and deployment.
-
-**Key capabilities:**
-
-- Client and legal case management
-- Document and contract workflows
-- Administrative dashboard and access control
-- Subscription plans and multi-user management
-- WhatsApp integration through Evolution API
-- LGPD-oriented data management
-
-**Stack:** `Laravel` · `PHP` · `React` · `JavaScript` · `MySQL` · `PostgreSQL` · `Docker` · `GitHub Actions` · `Nginx` · `REST APIs`
+`Clean Architecture` · `Domain-Driven Design` · `SOLID` · `Clean Code` · `MVC` · `Patrones de diseño` · `SaaS` · `Integración de sistemas` · `Observabilidad` · `CI/CD` · `Metodologías ágiles`
 
 ---
 
-### 🎓 Educational Platform Integration with TOTVS RM
+## 🚀 Proyectos destacados
 
-Enterprise integration responsible for synchronizing academic information between an external educational platform and TOTVS RM.
+### ⚖️ [JuriStack — SaaS de gestión jurídica](https://github.com/Gustavo-queirozman/JuriStack)
 
-**Implemented flows:**
+Plataforma SaaS full stack para despachos de abogados, desarrollada de extremo a extremo: arquitectura, backend, frontend, infraestructura y despliegue.
 
-- Student and enrollment synchronization
-- Courses, subjects, classes and academic-period integration
-- Automated grade synchronization
-- Scheduled jobs and business process automation
-- SQL Server queries, relational modeling and performance optimization
-- Logging, monitoring and incident troubleshooting
+**Principales funcionalidades:**
 
-**Stack:** `TOTVS RM` · `SQL Server` · `REST APIs` · `SOAP` · `SQL` · `Enterprise Integration`
+- Gestión de clientes y procesos jurídicos
+- Flujos de documentos y contratos
+- Panel administrativo y control de acceso
+- Planes de suscripción y gestión multiusuario
+- Integración con WhatsApp mediante Evolution API
+- Gestión de datos orientada al cumplimiento de la LGPD
 
----
-
-### 🏢 ERP and Business Management Solutions
-
-Development and maintenance of business applications involving inventory, sales, administrative workflows, dashboards and operational automation.
-
-**Stack:** `Laravel` · `React` · `MySQL` · `SQL Server` · `Docker` · `REST APIs`
+**Stack:** `Laravel` · `PHP` · `React` · `JavaScript` · `MySQL` · `PostgreSQL` · `Docker` · `GitHub Actions` · `Nginx` · `APIs REST`
 
 ---
 
-### 🏥 Healthcare Business APIs
+### 🎓 Integración de plataforma educativa con TOTVS RM
 
-REST APIs and internal systems for healthcare processes, including beneficiary management, service workflows and integrations between corporate systems.
+Integración empresarial responsable de sincronizar información académica entre una plataforma educativa externa y el ERP TOTVS RM.
 
-**Stack:** `Laravel` · `PHP` · `React` · `Oracle` · `MySQL` · `Docker` · `REST APIs`
+**Flujos implementados:**
 
----
+- Sincronización de estudiantes y matrículas
+- Integración de cursos, asignaturas, grupos y periodos académicos
+- Sincronización automática de calificaciones
+- Procesos programados y automatización de reglas de negocio
+- Consultas en SQL Server, modelado relacional y optimización de rendimiento
+- Registro de logs, monitorización y resolución de incidencias
 
-### 📈 AI-Powered WordPress SEO Plugin
-
-WordPress plugin focused on content generation and technical SEO automation.
-
-**Features:**
-
-- SEO metadata optimization
-- Open Graph and social sharing tags
-- Structured data with JSON-LD
-- Sitemap generation
-- AI-assisted content workflows
-
-**Stack:** `PHP` · `WordPress` · `JavaScript` · `REST APIs` · `SEO`
+**Stack:** `TOTVS RM` · `SQL Server` · `APIs REST` · `SOAP` · `SQL` · `Integración empresarial`
 
 ---
 
-## 💼 Professional Experience
+### 🏢 ERP y soluciones de gestión empresarial
 
-- **Full-Stack Developer — Ti Flat** · Aug 2024 – Present
-- **Web Developer — Unimed Noroeste de Minas** · Mar 2023 – Aug 2024
-- **Web Developer — Prefeitura Municipal de Paracatu** · Aug 2022 – Feb 2023
+Desarrollo y mantenimiento de aplicaciones empresariales para inventario, ventas, procesos administrativos, dashboards y automatización operativa.
 
-Across these roles, I have worked on enterprise applications, REST APIs, database optimization, Linux servers, Docker environments, system integrations, asynchronous processing and production support.
+**Stack:** `Laravel` · `React` · `MySQL` · `SQL Server` · `Docker` · `APIs REST`
 
 ---
 
-## 🎓 Education
+### 🏥 APIs para el sector sanitario
 
-- **Postgraduate Degree in Systems Development with Java** — UNIASSELVI · In progress
-- **Bachelor's Degree in Information Systems** — UniAtenas
-- **Technical Degree in Electronics** — Instituto Federal do Triângulo Mineiro
+Desarrollo de APIs REST y sistemas internos para procesos del sector sanitario, incluyendo gestión de beneficiarios, flujos de atención e integraciones entre sistemas corporativos.
 
----
-
-## 🌐 Languages
-
-- **Portuguese:** Native
-- **Spanish:** Advanced
-- **English:** Professional working proficiency
+**Stack:** `Laravel` · `PHP` · `React` · `Oracle` · `MySQL` · `Docker` · `APIs REST`
 
 ---
 
-## 📊 GitHub Activity
+### 📈 Plugin de WordPress para SEO con inteligencia artificial
+
+Plugin de WordPress orientado a la generación de contenido y automatización del SEO técnico.
+
+**Funcionalidades:**
+
+- Optimización de metadatos SEO
+- Etiquetas Open Graph para compartir en redes sociales
+- Datos estructurados con JSON-LD
+- Generación de sitemap
+- Flujos de creación de contenido asistidos por inteligencia artificial
+
+**Stack:** `PHP` · `WordPress` · `JavaScript` · `APIs REST` · `SEO`
+
+---
+
+## 💼 Experiencia profesional
+
+- **Desarrollador Full Stack — Ti Flat** · ago. 2024 – actualidad
+- **Desarrollador Web — Unimed Noroeste de Minas** · mar. 2023 – ago. 2024
+- **Desarrollador Web — Prefeitura Municipal de Paracatu** · ago. 2022 – feb. 2023
+
+En estas experiencias he trabajado con aplicaciones empresariales, APIs REST, optimización de bases de datos, servidores Linux, entornos Docker, integraciones de sistemas, procesamiento asíncrono y soporte de aplicaciones en producción.
+
+---
+
+## 🎓 Formación académica
+
+- **Posgrado en Desarrollo de Sistemas con Java** — UNIASSELVI · En curso
+- **Grado en Sistemas de Información** — UniAtenas
+- **Formación Técnica en Electrónica** — Instituto Federal do Triângulo Mineiro
+
+---
+
+## 🌐 Idiomas
+
+- **Portugués:** Nativo
+- **Español:** Avanzado
+- **Inglés:** Competencia profesional
+
+---
+
+## 📊 Actividad en GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gustavo-queirozman&show_icons=true&hide_border=true&count_private=true" alt="Gustavo's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-queirozman&layout=compact&hide_border=true" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gustavo-queirozman&show_icons=true&hide_border=true&count_private=true" alt="Estadísticas de GitHub de Gustavo" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-queirozman&layout=compact&hide_border=true" alt="Lenguajes más utilizados" />
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+## 📫 Contacto
 
-I'm interested in building reliable software, solving complex business problems and collaborating with teams that value engineering quality and continuous improvement.
+Me interesa desarrollar software fiable, resolver problemas empresariales complejos y colaborar con equipos que valoren la calidad técnica, la comunicación y la mejora continua.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-queiroz-85b82b3ab/)
 - 📧 [gustavoqueirozmit@gmail.com](mailto:gustavoqueirozmit@gmail.com)
@@ -185,6 +185,6 @@ I'm interested in building reliable software, solving complex business problems 
 
 <div align="center">
 
-> Great software is built through clear thinking, continuous learning and attention to detail.
+> El buen software se construye con pensamiento claro, aprendizaje continuo y atención al detalle.
 
 </div>
