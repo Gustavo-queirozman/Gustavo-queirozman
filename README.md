@@ -114,14 +114,6 @@ Desarrollo y mantenimiento de aplicaciones empresariales para inventario, ventas
 
 ---
 
-### 🏥 APIs para el sector sanitario
-
-Desarrollo de APIs REST y sistemas internos para procesos del sector sanitario, incluyendo gestión de beneficiarios, flujos de atención e integraciones entre sistemas corporativos.
-
-**Stack:** `Laravel` · `PHP` · `React` · `Oracle` · `MySQL` · `Docker` · `APIs REST`
-
----
-
 ### 📈 [Plugin de WordPress para SEO con inteligencia artificial](https://github.com/Gustavo-queirozman/rankora-docs)
 
 Plugin de WordPress orientado a la generación de contenido y automatización del SEO técnico.
