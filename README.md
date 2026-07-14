@@ -106,7 +106,7 @@ Integración empresarial responsable de sincronizar información académica entr
 
 ---
 
-### 🏢 ERP y soluciones de gestión empresarial
+### 🏢 [ERP y soluciones de gestión empresarial](https://gitlab.com/gustavoqueirozmit/erp)
 
 Desarrollo y mantenimiento de aplicaciones empresariales para inventario, ventas, procesos administrativos, dashboards y automatización operativa.
 
